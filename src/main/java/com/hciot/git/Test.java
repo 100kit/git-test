@@ -7,5 +7,6 @@ public class Test
         System.err.println("222222");
         System.out.println("333333333");
         System.out.println("444");
+        System.out.println("pull test");
     }
 }
